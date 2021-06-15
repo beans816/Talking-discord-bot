@@ -1,6 +1,9 @@
 
 # Speak In A Discord Channel with a Bot By Using Commands In Your Terminal:
-you need speaking perms in the discord server
+You need speaking perms in the discord server.
+
+Go here and follow the instructions to download the dependancies:
+https://github.com/Rapptz/discord.py
 
 terminal command:
 
