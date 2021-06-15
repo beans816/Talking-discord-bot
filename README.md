@@ -3,12 +3,15 @@
 you need speaking perms in the discord server
 
 terminal command:
-echo "Hello World" > t.txt && python3 main.py
+
+`echo "Hello World" > t.txt && python3 main.py`
 
 explaination:
 
-echo "Hello World" > t.txt
+`echo "Hello World" > t.txt` :
+
 deletes any data in t.txt and fills it with "Hello World"
 
-python3 main.py
-logs into the bot to execute the code
+`python3 main.py` :
+
+executes the code
